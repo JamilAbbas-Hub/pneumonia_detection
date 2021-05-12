@@ -7,7 +7,7 @@
 
 ## Files
 ### Notebook
-- [Pneumonia_Detection.ipynb](https://github.com/JamilAbbas-Hub/JamilAbbas/blob/master/Pneumonia%20Detection/Pneumonia_Detection.ipynb)
+- [Pneumonia_Detection.ipynb](https://github.com/JamilAbbas-Hub/pneumonia_detection/blob/master/Pneumonia_Detection.ipynb)
 
 ### Packages Needed
 - [numpy](https://numpy.org/)
